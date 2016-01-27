@@ -1,7 +1,7 @@
 name: MostlyAMommy
 favicon: null
 layout_spectrum: 0.43486
-typography_spectrum: 0.4435460383538157
+typography_spectrum: 0.98581
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#E376B7'
   brandStrength: 0.023734944872558117
   lightness: 0.69477360509336
-  saturation: 0.41426836466416717
-  rhythmicContrast: 0.98248859657906
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
